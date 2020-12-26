@@ -9,4 +9,4 @@
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I get “flashes” of insight out of the blues
 
-[![Josh's Github Stats](https://github-readme-stats.vercel.app/api?username=Jcardif)](https://github.com/anuraghazra/github-readme-stats)
+[![Josh's Github Stats](https://github-readme-stats.vercel.app/api?username=Jcardif&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
