@@ -5,4 +5,11 @@
 - 💬 Ask me about Data Engineering, Data Analytics, Data Governance, C# 
 - 👯 I’m looking to collaborate on C#, C/C++
 
-![Josh's github stats](https://github-readme-stats.vercel.app/api?username=jcardif&show_icons=true) 
+<center>
+    <table>
+        <tr>
+        <td><img width="750px" align="left" src="https://github-readme-stats.vercel.app/api?username=jcardif&show_icons=true" /></td>
+        <td><img width="500px" align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=Jcardif&layout=compact" /></td> 
+        </tr>
+    </table>
+</center>
