@@ -1,9 +1,11 @@
 # Hi there 👋 
 - 🔭 I’m Josh
 - 🌱 I’m a [Cloud Developer Advocate](https://developer.microsoft.com/en-us/advocates/joshua-ndemenge) and a [.NET](https://dotnet.microsoft.com/) developer.
-- 🤔 I’m on Twitter [@Jcardif254](https://twitter.com/Jcardif254)
-- 💬 Ask me about Data Engineering, Data Analytics, Data Governance, C# 
-- 👯 I’m looking to collaborate on C#, C/C++
+- 💬 Ask me about Data Engineering, Data Analytics, Data Governance, C#
+- 📫 How to reach me: [@Jcardif254](https://twitter.com/Jcardif254) on Twitter
+
+
+[![wakatime](https://wakatime.com/badge/user/6cf54e87-6cce-4392-a8f9-88d6e7d0369e.svg)](https://wakatime.com/@6cf54e87-6cce-4392-a8f9-88d6e7d0369e) &emsp;&emsp;&emsp;&emsp; ![](https://komarev.com/ghpvc/?username=jcardif)
 
 <center>
     <table>
@@ -13,3 +15,6 @@
         </tr>
     </table>
 </center>
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Jcardif&theme=tokyonight&background=000000)](https://git.io/streak-stats)
