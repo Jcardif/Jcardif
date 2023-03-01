@@ -7,14 +7,16 @@
 
 [![wakatime](https://wakatime.com/badge/user/6cf54e87-6cce-4392-a8f9-88d6e7d0369e.svg)](https://wakatime.com/@6cf54e87-6cce-4392-a8f9-88d6e7d0369e) &emsp;&emsp;&emsp;&emsp; ![](https://komarev.com/ghpvc/?username=jcardif)
 
-<center>
-    <table>
-        <tr>
-        <td><img width="750px" align="left" src="https://github-readme-stats-iamenoch.vercel.app/api?username=Jcardif&count_private=true&show_icons=true&count_private=true" /></td>
-        <td><img width="500px" align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=Jcardif&layout=compact" /></td> 
-        </tr>
-    </table>
-</center>
+
+<p align="center">
+  <table>
+    <tr>
+      <td><img width="750px" src="https://github-readme-stats-iamenoch.vercel.app/api?username=Jcardif&amp;count_private=true&amp;show_icons=true&amp;count_private=true" /></td>
+      <td><img width="660px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jcardif&hide_progress=true" /></td>
+    </tr>
+  </table>
+</p>
+
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Jcardif&theme=tokyonight&background=000000)](https://git.io/streak-stats)
