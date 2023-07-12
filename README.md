@@ -13,7 +13,7 @@
   <table>
     <tr>
       <td><img width="750px" src="https://github-readme-stats-iamenoch.vercel.app/api?username=Jcardif&amp;count_private=true&amp;show_icons=true&amp;count_private=true" /></td>
-      <td><img width="660px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jcardif&hide_progress=true" /></td>
+      <td><img width="660px" src="https://github-readme-stats-iamenoch.vercel.app/api/top-langs/?username=Jcardif&hide_progress=true" /></td>
     </tr>
   </table>
 </p>
