@@ -5,10 +5,6 @@
 - 📫 How to reach me: [@Jcardif254](https://twitter.com/Jcardif254) on Twitter
 
 
-[![wakatime](https://wakatime.com/badge/user/6cf54e87-6cce-4392-a8f9-88d6e7d0369e.svg)](https://wakatime.com/@6cf54e87-6cce-4392-a8f9-88d6e7d0369e)
-
-![](https://komarev.com/ghpvc/?username=jcardif)
-
 <p align="center">
   <table>
     <tr>
