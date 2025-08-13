@@ -2,7 +2,7 @@
 - 🔭 I’m Josh
 - 🌱 I’m a [Cloud Developer Advocate](https://developer.microsoft.com/en-us/advocates/joshua-ndemenge) and a [.NET](https://dotnet.microsoft.com/) developer.
 - 💬 Ask me about Data Engineering, Data Analytics, Data Governance, C#
-- 📫 How to reach me: [@Jcardif254](https://twitter.com/Jcardif254) on Twitter
+- 📫 How to reach me: [/in/Jcardif](https://www.linkedin.com/in/jcardif/) on LinkedIn
 
 
 ### :fire: My Stats : 
